@@ -1,5 +1,9 @@
-Book Review Categorization 
+** READ THIS AS A TEXT FILE (TextEdit) **
 
+** The Data Structure component format is messed up when viewed on GitHub ** 
+
+
+Book Review Categorization 
 
 This project classifies Amazon book reviews into 16 categories using four different NLP methods: DistilBERT, SVM, CNN, and Mistral (LLM). The objective is to compare the performance of classical machine learning, deep learning, and prompt-based large language models on a real-world multi-class classification problem. 
 
